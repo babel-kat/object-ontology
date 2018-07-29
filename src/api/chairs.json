@@ -1,0 +1,1875 @@
+{
+    "filters": [
+        {
+            "nature": {
+                "title": "Φύση",
+                "big_title": "Η Φύση ως...",
+                "desc": "Ζωική δομή – το φυσικό σώμα (ζώο, άνθρωπος – σκελετός, δέρμα, τριχίδια) // Φυτικό μοτίβο (το φυτό, το άνθος, το φύλλο) // Φυσικά φαινόμενα, διαδικασίες, διεργασίες (το κύμα, ο ιστός, το νερό, η βαρύτητα, το φράκταλ)",
+                "children": [
+                    {
+                        "image": {
+                            "title": "Παράσταση - Εικόνα",
+                            "big_title": "Η Φύση ως Παράσταση - Εικόνα",
+                            "desc": "Φυσικά στοιχεία εγγράφονται ως μορφές επί του αντικειμένου",
+                            "children": []
+                        }
+                    },
+                    {
+                        "order": {
+                            "title": "Κανόνας",
+                            "big_title": "Η Φύση ως Σχεδιαστικός Κανόνας",
+                            "desc": "Η μορφή του αντικειμένου κυριαρχείται από κανόνες που παραπέμπουν σε φυσικές δομές ή νόμους",
+                            "children": []
+                        }
+                    },
+                    {
+                        "symbol": {
+                            "title": "Αλληγορία - Σύμβολο",
+                            "big_title": "Η Φύση ως Σύμβολο",
+                            "desc": "Οι συμβολικές αναφορές στην φύση κυριαρχούν, παραπέμποντας σε ένα αξιολογικό πλαίσιο νοηματοδότησης του αντικειμένου",
+                            "children": []
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "space": {
+                "title": "Χώρος",
+                "big_title": "Η Χωρική Αντίληψη ως Κυρίαρχη Σχεδιαστική Συνθήκη",
+                "desc": "",
+                "children": [
+                    {
+                        "syntax": {
+                            "title": "Σύνταξη",
+                            "big_title": "Σύνταξη",
+                            "desc": "",
+                            "children": []
+                        }
+                    },
+                    {
+                        "geometry": {
+                            "title": "Γεωμετρία",
+                            "big_title": "Γεωμετρία",
+                            "desc": "",
+                            "children": []
+                        }
+                    },
+                    {
+                        "symmetry": {
+                            "title": "Συμμετρία",
+                            "big_title": "Συμμετρία",
+                            "desc": "",
+                            "children": []
+                        }
+                    },
+                    {
+                        "repetition": {
+                            "title": "Επανάληψη",
+                            "big_title": "Επανάληψη",
+                            "desc": "",
+                            "children": []
+                        }
+                    },
+                    {
+                        "unfolding": {
+                            "title": "Εκδίπλωση",
+                            "big_title": "Εκδίπλωση",
+                            "desc": "",
+                            "children": []
+                        }
+                    },
+                    {
+                        "emergence": {
+                            "title": "Ανάδυση",
+                            "big_title": "Ανάδυση",
+                            "desc": "",
+                            "children": []
+                        }
+                    },
+                    {
+                        "dematerialization": {
+                            "title": " Αποϋλοποίηση",
+                            "big_title": "Αποϋλοποίηση",
+                            "desc": "",
+                            "children": []
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "change": {
+                "title": "Μεταβολή",
+                "big_title": "Η Συνθήκη της Μεταβολής ως Συνάρτηση της Μορφής...",
+                "desc": "",
+                "children": [
+                    {
+                        "physical": {
+                            "title": "Φυσικό Αντικειμένο",
+                            "big_title": "του Φυσικού Αντικειμένου",
+                            "desc": "",
+                            "children": [
+                                {
+                                    "plasticity": {
+                                        "title": "Πλαστικότητα",
+                                        "big_title": "Πλαστικότητα",
+                                        "desc": "",
+                                        "children": []
+                                    }
+                                },
+                                {
+                                    "evolution": {
+                                        "title": "Εξέλιξη της Μορφής",
+                                        "big_title": "Εξέλιξη της Μορφής",
+                                        "desc": "",
+                                        "children": []
+                                    }
+                                },
+                                {
+                                    "movement": {
+                                        "title": "Κίνηση",
+                                        "big_title": "Κίνηση",
+                                        "desc": "",
+                                        "children": []
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "conventional": {
+                            "title": "Τελεολογικό Αντικειμένο",
+                            "big_title": "του Τελεολογικού Αντικειμένου",
+                            "desc": "",
+                            "children": [
+                                {
+                                    "constitution": {
+                                        "title": "Κατασκευή του Μέλλοντος – Καταστατικότητα",
+                                        "big_title": "Κατασκευή του Μέλλοντος – Καταστατικότητα",
+                                        "desc": "",
+                                        "children": []
+                                    }
+                                },
+                                {
+                                    "interpretation": {
+                                        "title": "Κριτική – Ερμηνεία",
+                                        "big_title": "Κριτική – Ερμηνεία",
+                                        "desc": "",
+                                        "children": []
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "intrinsic": {
+                            "title": "Αξιολογικό Αντικειμένο",
+                            "big_title": "του Αξιολογικού Αντικειμένου",
+                            "desc": "",
+                            "children": [
+                                {
+                                    "stability": {
+                                        "title": "Σταθερότητα",
+                                        "big_title": "Σταθερότητα",
+                                        "desc": "",
+                                        "children": []
+                                    }
+                                },
+                                {
+                                    "multiplicity": {
+                                        "title": "Πολλαπλότητα",
+                                        "big_title": "Πολλαπλότητα",
+                                        "desc": "",
+                                        "children": []
+                                    }
+                                },
+                                {
+                                    "sight": {
+                                        "title": "Βλέμμα",
+                                        "big_title": "Βλέμμα",
+                                        "desc": "",
+                                        "children": []
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "complexity": {
+                "title": "Πολυπλοκότητα",
+                "big_title": "Η Διαχείριση της Πολυπλοκότητας",
+                "desc": "",
+                "children": [
+                    {
+                        "technics": {
+                            "title": "Τεχνική",
+                            "big_title": "Η Συνάρτηση των Επιμέρους Στοιχείων μέσα από την Τεχνική",
+                            "desc": "",
+                            "children": []
+                        }
+                    },
+                    {
+                        "technology": {
+                            "title": "Τεχνολογία",
+                            "big_title": "Η Κατασκευή ως Τεχνολογική Δυνατότητα",
+                            "desc": "",
+                            "children": []
+                        }
+                    },
+                    {
+                        "formalism": {
+                            "title": "Φορμαλισμός",
+                            "big_title": "Η Συσχέτιση των Μερών ως Φορμαλιστική Εμμονή",
+                            "desc": "",
+                            "children": []
+                        }
+                    },
+                    {
+                        "ecomony": {
+                            "title": "Οικονομία",
+                            "big_title": "Η Οικονομία ως Καθοριστική-Απλοποιητική Παράμετρος στον Σχεδιασμό",
+                            "desc": "",
+                            "children": []
+                        }
+                    },
+                    {
+                        "reference": {
+                            "title": "Αναφορά",
+                            "big_title": "Η Εμφάνιση της Συνοχής μέσα από το Εννοιολογικό Συνδηλούμενο - την Αναφορά",
+                            "desc": "",
+                            "children": []
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "chairs": [
+        {
+            "year": 2009,
+            "file": "change/physical/plasticity/21st-2009-ferrucio-laviani-evolution-from-antique-to-modern.jpg",
+            "title": "21st C., 2009, Evolution from Antique to Modern, Ferrucio Laviani",
+            "tags": [
+                "evolution",
+                "technics",
+                "nature",
+                "change",
+                "formalism",
+                "plasticity",
+                "multiplicity",
+                "space",
+                "movement",
+                "intrinsic",
+                "sight",
+                "emergence",
+                "syntax",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2018,
+            "file": "change/physical/plasticity/chair-by-kenya-hara-bentwood-chairs-design-industrial.jpg",
+            "title": "21st C., Bentwood Chair by Kenya Hara",
+            "tags": [
+                "evolution",
+                "conventional",
+                "ecomony",
+                "change",
+                "constitution",
+                "plasticity",
+                "space",
+                "dematerialization",
+                "syntax",
+                "intrinsic",
+                "sight",
+                "emergence",
+                "geometry",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2010,
+            "file": "change/physical/plasticity/21st-2010-the-garden-plate-coffee-table-ishigami.jpg",
+            "title": "21st C., 2010, The Garden “Plate” Coffee Table, Junya Ishigami",
+            "tags": [
+                "technology",
+                "evolution",
+                "conventional",
+                "technics",
+                "nature",
+                "image",
+                "change",
+                "constitution",
+                "plasticity",
+                "formalism",
+                "interpretation",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1963,
+            "file": "change/physical/plasticity/20th-1963-grete-jalk-gj-chair.jpg",
+            "title": "20th C., 1963, GJ Chair , Grete Jalk",
+            "tags": [
+                "evolution",
+                "conventional",
+                "symmetry",
+                "change",
+                "constitution",
+                "plasticity",
+                "space",
+                "syntax",
+                "intrinsic",
+                "sight",
+                "geometry",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2012,
+            "file": "change/physical/plasticity/21st-2012-original-design-armchair-fiberglass-reinforced-polymer-golden-fauteuil-ii-philipp-aduatz.jpg",
+            "title": "21st C., 2012, Fauteuil II, Armchair for Hotels, Philipp Aduatz, Fiberglass Reinforced Polymer.jpg",
+            "tags": [
+                "constitution",
+                "space",
+                "intrinsic",
+                "physical",
+                "reference",
+                "complexity",
+                "emergence",
+                "plasticity",
+                "technology",
+                "conventional",
+                "order",
+                "nature",
+                "symmetry",
+                "change",
+                "syntax",
+                "repetition",
+                "evolution",
+                "stability",
+                "formalism",
+                "sight",
+                "geometry"
+            ]
+        },
+        {
+            "year": 1968,
+            "file": "change/physical/plasticity/20th-1968-piero-gati-cesare-paolini-franco-theodoro-sacco.jpg",
+            "title": "20th C., 1968,  Sacco, Piero Gati, Cesare Paolini & Franco Theodoro",
+            "tags": [
+                "conventional",
+                "order",
+                "ecomony",
+                "nature",
+                "change",
+                "constitution",
+                "plasticity",
+                "movement",
+                "interpretation",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1973,
+            "file": "change/physical/plasticity/20th-1973-verner-panton-dining_deluxe_grande.jpg",
+            "title": "20th C., 1973, Deluxe Dining Chair, Verner Panton",
+            "tags": [
+                "evolution",
+                "symmetry",
+                "change",
+                "space",
+                "plasticity",
+                "syntax",
+                "geometry",
+                "physical"
+            ]
+        },
+        {
+            "year": 1976,
+            "file": "change/physical/plasticity/20th-1976spiral-table-for-an-exhibition.jpg",
+            "title": "20th C., 1976, Spiral Table for an Exhibition, Johnny Hawkes",
+            "tags": [
+                "technology",
+                "evolution",
+                "order",
+                "nature",
+                "symmetry",
+                "change",
+                "formalism",
+                "plasticity",
+                "space",
+                "emergence",
+                "repetition",
+                "intrinsic",
+                "sight",
+                "syntax",
+                "symbol",
+                "geometry",
+                "physical",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1954,
+            "file": "change/physical/plasticity/20th-1954-57modern-design-exhibition-sori-yanagi.jpg",
+            "title": "20th C., 1954-57, Butterfly Stool, Modern Design Exhibition, Sori Yanagi",
+            "tags": [
+                "evolution",
+                "conventional",
+                "order",
+                "technics",
+                "nature",
+                "symmetry",
+                "change",
+                "constitution",
+                "plasticity",
+                "multiplicity",
+                "formalism",
+                "space",
+                "intrinsic",
+                "syntax",
+                "repetition",
+                "physical",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2014,
+            "file": "change/physical/plasticity/21st-2014cstelios-mousarris-3.jpg",
+            "title": "21st C., 2014(c.), Rug Chair, Stelios Mousarris",
+            "tags": [
+                "technology",
+                "evolution",
+                "conventional",
+                "order",
+                "nature",
+                "change",
+                "plasticity",
+                "space",
+                "emergence",
+                "syntax",
+                "intrinsic",
+                "interpretation",
+                "sight",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1959,
+            "file": "change/physical/plasticity/20th-1959-60-original-verner-panton-s-shaped-chairs.jpg",
+            "title": "20th C.,1959-60, S Shaped Chair, Verner Panton, Wood (later Plastic)",
+            "tags": [
+                "technology",
+                "evolution",
+                "conventional",
+                "nature",
+                "change",
+                "constitution",
+                "plasticity",
+                "space",
+                "emergence",
+                "syntax",
+                "intrinsic",
+                "interpretation",
+                "sight",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2010,
+            "file": "change/physical/plasticity/21st-2010-junya-ishigami-collection-for-living-divani.jpg",
+            "title": "21st C., 2010, Family Chairs Collection for Living Divani,  Junya Ishigami",
+            "tags": [
+                "technics",
+                "dematerialization",
+                "constitution",
+                "space",
+                "intrinsic",
+                "interpretation",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity",
+                "plasticity",
+                "technology",
+                "conventional",
+                "nature",
+                "change",
+                "syntax",
+                "repetition",
+                "evolution",
+                "formalism",
+                "multiplicity",
+                "sight"
+            ]
+        },
+        {
+            "year": 1900,
+            "file": "change/physical/plasticity/20th-1900circa-photographers-chair.jpg",
+            "title": "20th C.,1900(c.), Photographer's Chair",
+            "tags": [
+                "evolution",
+                "conventional",
+                "nature",
+                "change",
+                "constitution",
+                "plasticity",
+                "intrinsic",
+                "sight",
+                "image",
+                "physical"
+            ]
+        },
+        {
+            "year": 1500,
+            "file": "change/physical/plasticity/16th-1500-1560folding-armchair-of-carved-red-lacquer-on-wood-ming-dynasty.jpg",
+            "title": "16th C.,1500-60, Ming dynasty Folding Armchair, Carved Red Lacquer on Wood",
+            "tags": [
+                "evolution",
+                "nature",
+                "change",
+                "formalism",
+                "plasticity",
+                "space",
+                "movement",
+                "intrinsic",
+                "sight",
+                "unfolding",
+                "image",
+                "physical",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2013,
+            "file": "change/physical/plasticity/21st-2013modular-quartz-armchair-by-ctrlzak-and-david-barzaghi.jpg",
+            "title": "21st C., 2013, Modular Quartz Armchair, CTRLZAK & David Barzaghi",
+            "tags": [
+                "technics",
+                "constitution",
+                "space",
+                "intrinsic",
+                "interpretation",
+                "unfolding",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity",
+                "image",
+                "emergence",
+                "plasticity",
+                "technology",
+                "conventional",
+                "order",
+                "nature",
+                "change",
+                "syntax",
+                "repetition",
+                "formalism",
+                "multiplicity",
+                "movement",
+                "geometry"
+            ]
+        },
+        {
+            "year": 1977,
+            "file": "change/physical/plasticity/20th-1977-mario-bellini-cab-chair-for-cassina-italian.jpg",
+            "title": "20th C., 1977, Cab Chair for Cassina,  Mario Bellini",
+            "tags": [
+                "nature",
+                "change",
+                "plasticity",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1980,
+            "file": "change/physical/plasticity/20th-1980-gaetano-pesce.jpg",
+            "title": "20th C., 1980, Gaetano Pesce",
+            "tags": [
+                "technology",
+                "evolution",
+                "conventional",
+                "nature",
+                "stability",
+                "image",
+                "change",
+                "constitution",
+                "plasticity",
+                "movement",
+                "intrinsic",
+                "interpretation",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2011,
+            "file": "change/physical/plasticity/21st-2011-chair-grotesque-xefirotarch-hernan-diaz-alonso.png",
+            "title": "21st C., 2011, Chair Grotesque, Hernan Diaz Alonso",
+            "tags": [
+                "technology",
+                "evolution",
+                "conventional",
+                "change",
+                "constitution",
+                "plasticity",
+                "formalism",
+                "space",
+                "syntax",
+                "intrinsic",
+                "interpretation",
+                "sight",
+                "geometry",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2006,
+            "file": "change/physical/plasticity/21st-2006-la_tumbona_lama_lodovica-y-roberto-palomba.jpg",
+            "title": "21st C., 2006, La Tumbona Lama, Lodovica & Roberto Palomba",
+            "tags": [
+                "evolution",
+                "stability",
+                "change",
+                "plasticity",
+                "space",
+                "movement",
+                "intrinsic",
+                "geometry",
+                "physical"
+            ]
+        },
+        {
+            "year": 1972,
+            "file": "change/physical/plasticity/20th-1972claude-lalanne-love-seat.jpg",
+            "title": "20th C., 1972, Love Seat, Claude Lalanne",
+            "tags": [
+                "evolution",
+                "nature",
+                "symmetry",
+                "change",
+                "formalism",
+                "plasticity",
+                "multiplicity",
+                "space",
+                "emergence",
+                "intrinsic",
+                "sight",
+                "syntax",
+                "image",
+                "physical",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1970,
+            "file": "change/physical/plasticity/20th-1970-visiona-poster-panton.jpg",
+            "title": "20th C., 1970, Visiona Poster, Verner Panton",
+            "tags": [
+                "technology",
+                "evolution",
+                "conventional",
+                "nature",
+                "change",
+                "constitution",
+                "plasticity",
+                "multiplicity",
+                "formalism",
+                "space",
+                "intrinsic",
+                "interpretation",
+                "emergence",
+                "syntax",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1954,
+            "file": "change/physical/plasticity/20th-1954the-eames-chair.png",
+            "title": "20th C., 1954, The Eames Chair, Charles & Ray Eames",
+            "tags": [
+                "evolution",
+                "conventional",
+                "technics",
+                "nature",
+                "image",
+                "change",
+                "constitution",
+                "plasticity",
+                "formalism",
+                "space",
+                "emergence",
+                "symbol",
+                "geometry",
+                "physical",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1952,
+            "file": "change/physical/plasticity/20th-1952-harry-bertoia-diamond-chair-for-knoll.jpg",
+            "title": "20th C., 1952, Bertoia Diamond Chair for Knoll, Harry Bertoia",
+            "tags": [
+                "technology",
+                "evolution",
+                "conventional",
+                "ecomony",
+                "symmetry",
+                "stability",
+                "change",
+                "constitution",
+                "plasticity",
+                "formalism",
+                "space",
+                "dematerialization",
+                "intrinsic",
+                "interpretation",
+                "sight",
+                "syntax",
+                "geometry",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1989,
+            "file": "change/physical/plasticity/20th-1989prototype-cross-check-chair-gehry.jpg",
+            "title": "20th C., 1989, Prototype Cross Check Chair for Knoll, Frank Gehry",
+            "tags": [
+                "technics",
+                "dematerialization",
+                "constitution",
+                "space",
+                "intrinsic",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity",
+                "emergence",
+                "plasticity",
+                "technology",
+                "conventional",
+                "nature",
+                "change",
+                "syntax",
+                "repetition",
+                "evolution",
+                "formalism",
+                "sight",
+                "geometry"
+            ]
+        },
+        {
+            "year": 1948,
+            "file": "change/physical/plasticity/20th-1948charles-and-ray-eames-designed-la-chaise.jpg",
+            "title": "20th C., 1948, La Chaise, Charles & Ray Eames",
+            "tags": [
+                "technology",
+                "evolution",
+                "conventional",
+                "nature",
+                "change",
+                "constitution",
+                "plasticity",
+                "multiplicity",
+                "space",
+                "movement",
+                "intrinsic",
+                "sight",
+                "emergence",
+                "image",
+                "geometry",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1785,
+            "file": "change/physical/plasticity/18th-late_georgian_sofa.jpg",
+            "title": "18th C. (late), Georgian Sofa",
+            "tags": [
+                "evolution",
+                "order",
+                "nature",
+                "symmetry",
+                "change",
+                "formalism",
+                "plasticity",
+                "multiplicity",
+                "space",
+                "repetition",
+                "intrinsic",
+                "emergence",
+                "image",
+                "physical",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2015,
+            "file": "change/physical/plasticity/21st-2015-chair-proto-xefirotarch-hernan-diaz-alonso.png",
+            "title": "21st C., 2015, Chair Proto, Hernan Diaz Alonso",
+            "tags": [
+                "technology",
+                "evolution",
+                "conventional",
+                "nature",
+                "change",
+                "constitution",
+                "plasticity",
+                "space",
+                "syntax",
+                "interpretation",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2014,
+            "file": "change/physical/plasticity/21st-2014-alejandro-estrada-pipo-chair-courbes-et-volupte-par-piegatto.jpg",
+            "title": "21st C., 2014, PIPO Chair for Piegatto, Alejandro Estrada",
+            "tags": [
+                "evolution",
+                "order",
+                "nature",
+                "symmetry",
+                "change",
+                "plasticity",
+                "space",
+                "syntax",
+                "physical"
+            ]
+        },
+        {
+            "year": 1970,
+            "file": "change/physical/movement/20th-1970vintage-pair-of-valenti-italian-leather-campaign-chairs-italian.jpg",
+            "title": "20th C., 1970, Vintage Pair of Valenti Italian Leather Campaign Chairs",
+            "tags": [
+                "nature",
+                "change",
+                "movement",
+                "image",
+                "physical"
+            ]
+        },
+        {
+            "year": 1450,
+            "file": "change/physical/movement/15th-century-late-folding-chair-with-arms-maker-cypress.jpg",
+            "title": "15th C. (late), Folding Chair with Arms, Cypress",
+            "tags": [
+                "technology",
+                "technics",
+                "stability",
+                "change",
+                "formalism",
+                "space",
+                "movement",
+                "intrinsic",
+                "unfolding",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1983,
+            "file": "change/physical/movement/20th-1983-peter-opsvik-balans-chair.jpg",
+            "title": "40. 20th C., 1983, Peter Opsvik, Balans Chair",
+            "tags": [
+                "conventional",
+                "order",
+                "nature",
+                "change",
+                "movement",
+                "interpretation",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2012,
+            "file": "change/physical/movement/21st-2012-nicole-tomazi-salone-satellite-award-2012.jpg",
+            "title": "21st C., 2012, Fractal Table, Salone Satellite Award 2012, Nicole Tomazi",
+            "tags": [
+                "technics",
+                "constitution",
+                "space",
+                "intrinsic",
+                "interpretation",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity",
+                "image",
+                "technology",
+                "conventional",
+                "order",
+                "nature",
+                "change",
+                "syntax",
+                "evolution",
+                "formalism",
+                "multiplicity",
+                "movement",
+                "geometry"
+            ]
+        },
+        {
+            "year": 2015,
+            "file": "change/physical/movement/21st-2015-exocet-multifunctional-chair-by-stephane-leathead.jpg",
+            "title": "21st C., 2015, Exocet Multifunctional Chair, Stéphane Leathead",
+            "tags": [
+                "technology",
+                "conventional",
+                "ecomony",
+                "change",
+                "constitution",
+                "multiplicity",
+                "formalism",
+                "space",
+                "movement",
+                "intrinsic",
+                "syntax",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2015,
+            "file": "change/physical/movement/21st-2015cstelios-mousarris-majoriachair.png",
+            "title": "21st C., 2015(c.), Majoria Chair, Stelios Mousarris",
+            "tags": [
+                "evolution",
+                "conventional",
+                "change",
+                "multiplicity",
+                "space",
+                "emergence",
+                "movement",
+                "intrinsic",
+                "interpretation",
+                "syntax",
+                "repetition",
+                "geometry",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1990,
+            "file": "change/physical/movement/20th-1990-cato-rocker.jpg",
+            "title": "20th C., 1990, Cato Rocker, Tony Portus, Maple",
+            "tags": [
+                "stability",
+                "change",
+                "space",
+                "movement",
+                "intrinsic",
+                "repetition",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2008,
+            "file": "change/physical/movement/21st-2008-diamond-chair-by-nendo-from-wa.jpg",
+            "title": "21st C., 2008, Diamond Chair, Nendo",
+            "tags": [
+                "technics",
+                "dematerialization",
+                "space",
+                "intrinsic",
+                "interpretation",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity",
+                "image",
+                "emergence",
+                "technology",
+                "conventional",
+                "order",
+                "nature",
+                "change",
+                "syntax",
+                "repetition",
+                "formalism",
+                "multiplicity",
+                "movement",
+                "sight"
+            ]
+        },
+        {
+            "year": 1560,
+            "file": "change/physical/movement/16th-century-sedia-tenaglia-mobel-europas-i-r-g.jpg",
+            "title": "16th C., Sedia Tenaglia, Renaissance – Gothic ",
+            "tags": [
+                "symmetry",
+                "change",
+                "formalism",
+                "space",
+                "syntax",
+                "movement",
+                "unfolding",
+                "repetition",
+                "geometry",
+                "physical",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1995,
+            "file": "change/physical/movement/20th-1995-frog-padded-lounge-designed-by-piero-lissoni-for-living-divani.jpg",
+            "title": "20th C., 1995, Frog Padded Lounge for Living Divani, Piero Lissoni",
+            "tags": [
+                "technics",
+                "ecomony",
+                "stability",
+                "change",
+                "dematerialization",
+                "space",
+                "movement",
+                "intrinsic",
+                "physical",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2009,
+            "file": "change/physical/movement/21st-2009tony-oneill-slimline-folding-chair.jpg",
+            "title": "21st C., 2009, Slimline Folding Chair, Tony O’Neill",
+            "tags": [
+                "technology",
+                "conventional",
+                "ecomony",
+                "change",
+                "constitution",
+                "formalism",
+                "space",
+                "dematerialization",
+                "movement",
+                "syntax",
+                "unfolding",
+                "geometry",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2010,
+            "file": "change/physical/movement/21st-2010-folding_chair_ottoman_by-brainstream_01.jpg",
+            "title": "21st C., 2010, Folding Chair and Ottoman, by Brainstream",
+            "tags": [
+                "evolution",
+                "conventional",
+                "technics",
+                "ecomony",
+                "symmetry",
+                "change",
+                "constitution",
+                "formalism",
+                "space",
+                "syntax",
+                "movement",
+                "unfolding",
+                "repetition",
+                "geometry",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1938,
+            "file": "change/physical/movement/20th-1938-butterfly-chair-grupo-austral.jpg",
+            "title": "20th C., 1938, Butterfly Chair, Grupo Austral",
+            "tags": [
+                "ecomony",
+                "change",
+                "movement",
+                "physical",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1987,
+            "file": "change/physical/movement/20th-1987-fernando-n-humbertocampana-edra-vermelha-armchair.jpg",
+            "title": "20th C., 1987, Vermelha Armchair for Edra, Fernando & Humberto Campana",
+            "tags": [
+                "evolution",
+                "conventional",
+                "technics",
+                "nature",
+                "change",
+                "constitution",
+                "multiplicity",
+                "formalism",
+                "space",
+                "movement",
+                "intrinsic",
+                "interpretation",
+                "repetition",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2016,
+            "file": "change/physical/movement/21st-2016-gareth-neal-anne-chair-front-turned.jpg",
+            "title": "21st C., 2016, Anne Chair, from the Cut and Groove Series, Gareth Neal ",
+            "tags": [
+                "conventional",
+                "technics",
+                "symmetry",
+                "change",
+                "formalism",
+                "multiplicity",
+                "space",
+                "dematerialization",
+                "movement",
+                "intrinsic",
+                "interpretation",
+                "sight",
+                "emergence",
+                "repetition",
+                "syntax",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1955,
+            "file": "change/physical/movement/20th-a-vintage-leather-and-pine-folding-chair.jpg",
+            "title": "20th C., Vintage Leather and Pine Folding Chair, from The Warehouse Auction",
+            "tags": [
+                "nature",
+                "change",
+                "movement",
+                "image",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1995,
+            "file": "change/physical/evolution/20th-1995c-handmade-rupert-williamson.jpg",
+            "title": "20th C., 1995(c.), Asymmetrical Chair, Rupert Williamson",
+            "tags": [
+                "evolution",
+                "conventional",
+                "order",
+                "technics",
+                "nature",
+                "stability",
+                "change",
+                "constitution",
+                "formalism",
+                "space",
+                "intrinsic",
+                "sight",
+                "symbol",
+                "geometry",
+                "physical",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2017,
+            "file": "change/physical/evolution/21st-2017ccomfortable-chair-with-spilled-rug-alexandra-kehayoglu-and-maxi-ciovich.jpg",
+            "title": "21st C., 2017(c.) Chair with Spilled Rug, Alexandra Kehayoglu & Maxi Ciovich",
+            "tags": [
+                "evolution",
+                "technics",
+                "change",
+                "multiplicity",
+                "space",
+                "intrinsic",
+                "emergence",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1755,
+            "file": "change/physical/evolution/18th-1755circageorge-ii-console-table-in-the-style-of-thomas-johnson.png",
+            "title": "18th C., 1755(c.) George II Console Table, in the style of Thomas Johnson",
+            "tags": [
+                "evolution",
+                "conventional",
+                "order",
+                "nature",
+                "change",
+                "formalism",
+                "space",
+                "emergence",
+                "interpretation",
+                "image",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2010,
+            "file": "change/physical/evolution/21st-2010-winner-of-british-panton-chair-competition-jump-studios.jpg",
+            "title": "21st C., 2010, Winner of British Panton Chair Competition, Jump Studios",
+            "tags": [
+                "technology",
+                "evolution",
+                "conventional",
+                "order",
+                "nature",
+                "change",
+                "constitution",
+                "formalism",
+                "space",
+                "dematerialization",
+                "syntax",
+                "intrinsic",
+                "interpretation",
+                "sight",
+                "symbol",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1969,
+            "file": "change/physical/evolution/20th-1969alphonse-mattia-side-chair.jpg",
+            "title": "20th C., 1969, Side Chair, Alphonse Mattia",
+            "tags": [
+                "evolution",
+                "change",
+                "space",
+                "intrinsic",
+                "sight",
+                "emergence",
+                "physical"
+            ]
+        },
+        {
+            "year": 1990,
+            "file": "change/physical/evolution/20th-1990-cmillennium-laminated-holly-john-makepeace.jpg",
+            "title": "45. 20th C., 1990(c.), Millennium Chair, John Makepeace, Laminated Holly",
+            "tags": [
+                "technology",
+                "evolution",
+                "stability",
+                "change",
+                "space",
+                "syntax",
+                "intrinsic",
+                "geometry",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1927,
+            "file": "change/physical/evolution/20th-1927mies-mr20-armchair-and-stool.png",
+            "title": "20th C., 1927, MR20 Armchair and Stool, Mies Van Der Rohe",
+            "tags": [
+                "technology",
+                "evolution",
+                "conventional",
+                "technics",
+                "ecomony",
+                "change",
+                "constitution",
+                "formalism",
+                "space",
+                "dematerialization",
+                "syntax",
+                "intrinsic",
+                "sight",
+                "emergence",
+                "geometry",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2010,
+            "file": "change/physical/evolution/21st-2010pepe-heykoop-brickseries.jpg",
+            "title": "21st C., 2010, Brick Chair from Brick Series, Pepe Heykoop",
+            "tags": [
+                "evolution",
+                "conventional",
+                "technics",
+                "ecomony",
+                "change",
+                "constitution",
+                "formalism",
+                "space",
+                "dematerialization",
+                "syntax",
+                "interpretation",
+                "emergence",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2012,
+            "file": "change/physical/evolution/21st-2012tim-miller-using-laser-cutting-in-a-clever-way-to-make-the-plastic-bend-and-form-into-a-chair.jpg",
+            "title": "21st C., 2012, Plastic Laser Cut Chair, Tim Miller",
+            "tags": [
+                "technology",
+                "evolution",
+                "technics",
+                "symmetry",
+                "change",
+                "formalism",
+                "space",
+                "intrinsic",
+                "sight",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2013,
+            "file": "change/physical/evolution/21st-2013mamulengo-rocking-chair-eduardo-baroni-ivory-plywood-slices-for-elon.jpg",
+            "title": "21st C., 2013, Mamulengo Rocking Chair for Elon, Eduardo Baroni, Ivory Plywood Slices",
+            "tags": [
+                "technology",
+                "evolution",
+                "conventional",
+                "change",
+                "constitution",
+                "multiplicity",
+                "formalism",
+                "space",
+                "emergence",
+                "intrinsic",
+                "syntax",
+                "repetition",
+                "geometry",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2009,
+            "file": "change/physical/evolution/21st-2009croma-chair-ferruccio-laviani-for-emmemobili-multilayer-shaped-wood-wooden-veneers-non-toxic-finishes.jpg",
+            "title": "21st C., 2009(c.), Roma Chair for Emmemobili, Ferruccio Laviani, Multilayer Shaped Wood",
+            "tags": [
+                "evolution",
+                "stability",
+                "change",
+                "space",
+                "intrinsic",
+                "repetition",
+                "geometry",
+                "physical"
+            ]
+        },
+        {
+            "year": 2013,
+            "file": "change/physical/evolution/21st-2013-upcycled-chair-by-yinka-ilori.jpg",
+            "title": "21st C., 2013, Upcycled Chair, Yinka Ilori",
+            "tags": [
+                "evolution",
+                "conventional",
+                "technics",
+                "ecomony",
+                "change",
+                "constitution",
+                "multiplicity",
+                "formalism",
+                "space",
+                "syntax",
+                "intrinsic",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1690,
+            "file": "change/physical/evolution/17th-flemish-table-twisted-shapes.jpg",
+            "title": "17th C., Flemish Table",
+            "tags": [
+                "evolution",
+                "stability",
+                "change",
+                "space",
+                "intrinsic",
+                "geometry",
+                "physical"
+            ]
+        },
+        {
+            "year": 1969,
+            "file": "change/physical/evolution/20th-1969-1973-easy-edges-series-nesting-chairs-set-of-3-by-frank-gehry.jpg",
+            "title": "20th C., 1969-1973, Easy Edges Series, Nesting chairs (Set of 3), Frank Gehry",
+            "tags": [
+                "technology",
+                "evolution",
+                "conventional",
+                "ecomony",
+                "change",
+                "constitution",
+                "multiplicity",
+                "formalism",
+                "space",
+                "syntax",
+                "intrinsic",
+                "interpretation",
+                "repetition",
+                "physical",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1550,
+            "file": "change/physical/evolution/16th-italian-renaissance-x-chair-savonarola-chair.jpg",
+            "title": "16th C., X Chair (Savonarola), Italian Renaissance",
+            "tags": [
+                "evolution",
+                "nature",
+                "change",
+                "space",
+                "repetition",
+                "unfolding",
+                "image",
+                "physical"
+            ]
+        },
+        {
+            "year": 1919,
+            "file": "change/conventional/interpretation/20th-1919-23-rietveld-moma_redandblue-chair.jpg",
+            "title": "20th C., 1919-23, Red and Blue Chair, Gerrit Rietveld, MoMa",
+            "tags": [
+                "conventional",
+                "technics",
+                "ecomony",
+                "change",
+                "constitution",
+                "multiplicity",
+                "formalism",
+                "space",
+                "syntax",
+                "intrinsic",
+                "interpretation",
+                "repetition",
+                "geometry",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1952,
+            "file": "change/conventional/interpretation/20th-1952-ant-chair-arne-jacobsen.jpg",
+            "title": "20th C., 1952, Ant Chair, Arne Jacobsen",
+            "tags": [
+                "conventional",
+                "nature",
+                "image",
+                "change",
+                "interpretation",
+                "symbol"
+            ]
+        },
+        {
+            "year": 1960,
+            "file": "change/conventional/interpretation/20th-1960-peacock-chair-panton.jpg",
+            "title": "20th C., 1960, Peacock Chair, Verner Panton",
+            "tags": [
+                "conventional",
+                "order",
+                "technics",
+                "nature",
+                "stability",
+                "image",
+                "symmetry",
+                "change",
+                "constitution",
+                "multiplicity",
+                "formalism",
+                "space",
+                "repetition",
+                "intrinsic",
+                "interpretation",
+                "emergence",
+                "syntax",
+                "symbol",
+                "geometry",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1985,
+            "file": "change/conventional/interpretation/20th-1985-jonathan-de-pas-donato-d-urbino-paolo-lomazzi.jpg",
+            "title": "20th C., 1985, Jonathan de Pas, Donato D' Urbino, Paolo Lomazzi",
+            "tags": [
+                "conventional",
+                "technics",
+                "ecomony",
+                "change",
+                "formalism",
+                "multiplicity",
+                "space",
+                "intrinsic",
+                "interpretation",
+                "repetition",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1957,
+            "file": "change/conventional/constitution/20th-1957tulip-dining-table-and-set-five-tulip-chairs-eero-saarinen-for-knoll-international_3.jpg",
+            "title": "20th C., 1957, Tulip Dining Table and Set Tulip Chairs for Knoll, Eero Saarinen",
+            "tags": [
+                "technology",
+                "conventional",
+                "technics",
+                "ecomony",
+                "nature",
+                "image",
+                "change",
+                "constitution",
+                "formalism",
+                "space",
+                "repetition",
+                "symbol",
+                "geometry",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2010,
+            "file": "change/conventional/constitution/21st-2010-konoha-sancal-toyo-ito.jpg",
+            "title": "21st C., 2010, Konoha for Sancal, Toyo Ito",
+            "tags": [
+                "technics",
+                "constitution",
+                "space",
+                "intrinsic",
+                "symbol",
+                "reference",
+                "complexity",
+                "image",
+                "technology",
+                "conventional",
+                "order",
+                "nature",
+                "symmetry",
+                "change",
+                "syntax",
+                "repetition",
+                "stability",
+                "formalism",
+                "multiplicity",
+                "sight",
+                "geometry"
+            ]
+        },
+        {
+            "year": 1790,
+            "file": "change/conventional/constitution/18th-1790-95-klismos-chair-by-nicolai-abraham-abildgaard.png",
+            "title": "18th C., 1790-95, Klismos Chair, Nicolai Abraham Abildgaard",
+            "tags": [
+                "conventional",
+                "nature",
+                "stability",
+                "change",
+                "constitution",
+                "intrinsic",
+                "symbol"
+            ]
+        },
+        {
+            "year": 1830,
+            "file": "change/conventional/constitution/19th-1830cearly-a-george-iv-yew-and-elm-windsor.jpg",
+            "title": "19th C., 1830(c.), Early George IV Windsor Chair, Yew and Elm Wood",
+            "tags": [
+                "conventional",
+                "change",
+                "constitution"
+            ]
+        },
+        {
+            "year": 2012,
+            "file": "change/conventional/constitution/21st-2012-living-divani-salone-del-mobile-2012.jpg",
+            "title": "21st C., 2012, From Salone del Mobile 2012, for Living Divani",
+            "tags": [
+                "conventional",
+                "technics",
+                "ecomony",
+                "change",
+                "constitution",
+                "multiplicity",
+                "formalism",
+                "space",
+                "syntax",
+                "intrinsic",
+                "repetition",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2012,
+            "file": "change/conventional/constitution/21st-2012-kenno-cardboard-chair-s-and-l-by-showroom-finland-design-heikki-ruoho.jpg",
+            "title": "21st C., 2012, Kenno Cardboard Chair S and L for Showroom Finland, Heikki Ruoho",
+            "tags": [
+                "technology",
+                "conventional",
+                "ecomony",
+                "stability",
+                "change",
+                "constitution",
+                "formalism",
+                "space",
+                "syntax",
+                "intrinsic",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2012,
+            "file": "change/conventional/constitution/21st-2012cut-furniture-giving-new-meaning-to-flat-pack-furniture-ambiente-2012.jpg",
+            "title": "21st C., 2012, Cut Furniture Giving New Meaning to Flat Pack Furniture — Ambiente 2012",
+            "tags": [
+                "technology",
+                "conventional",
+                "technics",
+                "ecomony",
+                "change",
+                "constitution",
+                "multiplicity",
+                "formalism",
+                "space",
+                "syntax",
+                "intrinsic",
+                "unfolding",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2016,
+            "file": "change/intrinsic/multiplicity/21st-2016-stocker-by-matthias-scherzinger-from-a-design-award-competition.jpg",
+            "title": "21st C., 2016, Stocker, Matthias Scherzinger",
+            "tags": [
+                "ecomony",
+                "change",
+                "formalism",
+                "multiplicity",
+                "space",
+                "syntax",
+                "intrinsic",
+                "repetition",
+                "geometry",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2012,
+            "file": "change/intrinsic/multiplicity/21st-2012-diy-anthropolgie-moroccan-rug-chairjpeg",
+            "title": "21st C., 2012, Moroccan Rug Chair, DIY Style for Anthropolgie",
+            "tags": [
+                "ecomony",
+                "change",
+                "formalism",
+                "multiplicity",
+                "space",
+                "intrinsic",
+                "repetition",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1890,
+            "file": "change/intrinsic/sight/19th-colonial-style-historical_new_york_windsor_settee.jpg",
+            "title": "19th C., Historical New York Windsor Settee, Colonial Style",
+            "tags": [
+                "technics",
+                "ecomony",
+                "symmetry",
+                "change",
+                "space",
+                "intrinsic",
+                "sight",
+                "repetition",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1980,
+            "file": "change/intrinsic/sight/20th-1980c-pier-table-sean-feeney-handmade.jpg",
+            "title": "20th C., 1980(c.), Pier Table, Sean Feeney",
+            "tags": [
+                "order",
+                "nature",
+                "change",
+                "formalism",
+                "space",
+                "intrinsic",
+                "sight",
+                "repetition",
+                "geometry",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1951,
+            "file": "change/intrinsic/sight/20th-1951dkr-chair-by-charles.jpg",
+            "title": "20th C., 1951, DKR Chair, Charles & Ray Eames",
+            "tags": [
+                "stability",
+                "intrinsic",
+                "change",
+                "sight",
+                "complexity",
+                "ecomony"
+            ]
+        },
+        {
+            "year": 1933,
+            "file": "change/intrinsic/sight/20th-1933-34-plywood-chair-gerald-summers.jpg",
+            "title": "20th C., 1933-34, Plywood Chair, Gerald Summers",
+            "tags": [
+                "order",
+                "nature",
+                "change",
+                "intrinsic",
+                "sight",
+                "symbol"
+            ]
+        },
+        {
+            "year": 2010,
+            "file": "change/intrinsic/sight/21st-2010-drop-table-junyaishigami.jpg",
+            "title": "21st C., 2010, Drop Table, Junya Ishigami",
+            "tags": [
+                "technology",
+                "symmetry",
+                "change",
+                "dematerialization",
+                "space",
+                "intrinsic",
+                "sight",
+                "reference",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1725,
+            "file": "change/intrinsic/stability/18th-1725-1750splat-back-side-chair-american.png",
+            "title": "18th C., 1725-50, Splat-back Side Chair, American",
+            "tags": [
+                "ecomony",
+                "stability",
+                "change",
+                "intrinsic",
+                "complexity"
+            ]
+        },
+        {
+            "year": 2015,
+            "file": "complexity/technics/21st-2015-hoop-by-arik-levy-divani.jpg",
+            "title": "21st C., 2015, Hoop for Living  Divani, Arik Levy",
+            "tags": [
+                "formalism",
+                "complexity",
+                "technics"
+            ]
+        },
+        {
+            "year": 1820,
+            "file": "complexity/technics/19th-1820-40american-federal-painted-six-seat-settee-or-bench-antique-late-sheraton.jpg",
+            "title": "19th C., 1820-40, American Federal Painted Six Seat Settee",
+            "tags": [
+                "technics",
+                "symmetry",
+                "space",
+                "syntax",
+                "repetition",
+                "geometry",
+                "complexity"
+            ]
+        },
+        {
+            "year": 1987,
+            "file": "complexity/reference/20th-1987-rena-dumas-leather-hermes-pippa-folding-armchair-with-pear-wood-base.jpg",
+            "title": "20th C., 1987, Pippa Folding Armchair for Hermès, Rena Dumas, Leather with Pear Wood Base",
+            "tags": [
+                "geometry",
+                "reference",
+                "complexity",
+                "space",
+                "ecomony"
+            ]
+        },
+        {
+            "year": 1880,
+            "file": "nature/image/19th-1880c-pair-of-oak-hall-chairs-decorative-medievaljapanese-infl-linearity-diff-from-victorian.jpg",
+            "title": "19th C., 1880(c.), Pair of Oak Hall Chairs, Medieval and Japanese Art Influences",
+            "tags": [
+                "nature",
+                "image"
+            ]
+        }
+    ]
+}
